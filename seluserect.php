@@ -28,7 +28,7 @@ add_action( 'show_user_profile', 'extra_user_profile_fields' );
 add_action( 'edit_user_profile', 'extra_user_profile_fields' );
  
 function extra_user_profile_fields( $user ) { ?>
-<h3><?php _e("Extra profile information", "blank"); ?></h3>
+<h3><?php _e("Данные о связанной персоне", "blank"); ?></h3>
  
 <table class="form-table">
 <tr>
