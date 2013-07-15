@@ -3,7 +3,7 @@
 Plugin Name: Seluserect
 Plugin URI: http://test.wp.mr-smart.ru/
 Description: поле выбора пользователя
-Version: 1.0
+Version: 1.1
 Author: kisagiSensei
 Author URI:http://test.wp.mr-smart.ru/
 Description: поле выбора пользователя
